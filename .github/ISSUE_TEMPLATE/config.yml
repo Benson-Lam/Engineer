@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Report a Security Vulnerability
+    url: https://github.com/<your-github-username>/Engineer/security/advisories/new
+    about: Please do not report security vulnerabilities as public issues. See SECURITY.md.
+  - name: 💬 Ask a Question / Start a Discussion
+    url: https://github.com/<your-github-username>/Engineer/discussions
+    about: For general questions, ideas, and open-ended discussion.
