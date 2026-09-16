@@ -58,7 +58,7 @@ This repository is maintained by **Benson Lam, Cloud Technical Lead at cubesys P
 ### Option 1 — Clone the repository
 
 ```powershell
-git clone https://github.com/<your-github-username>/Engineer.git
+git clone https://github.com/Benson-Lam/Engineer.git
 cd Engineer
 ```
 
@@ -186,7 +186,7 @@ See the full [`DISCLAIMER.md`](DISCLAIMER.md) for complete terms.
 Cloud Technical Lead @ [cubesys Pty Ltd](https://cubesys.com.au)
 
 - 🔗 LinkedIn: [linkedin.com/in/bensonlam](https://www.linkedin.com/in/bensonlam/)
-- 💻 GitHub: [@<your-github-username>](https://github.com/<your-github-username>)
+- 💻 GitHub: [@Benson-Lam](https://github.com/Benson-Lam)
 
 If this project has helped you, please consider ⭐ **starring the repository** — it helps others discover the project and supports continued development.
 
