@@ -28,7 +28,7 @@
     License     : Apache License 2.0 - https://www.apache.org/licenses/LICENSE-2.0
     Version     : 1.0.0
     Date        : 2026-09-16
-    GitHub      : https://github.com/<your-github-username>/Engineer
+    GitHub      : https://github.com/Benson-Lam/Engineer
     LinkedIn    : https://www.linkedin.com/in/bensonlam/
     ===========================================================================
 
