@@ -29,7 +29,7 @@ Every script in this repository **must** begin with this header block. It ensure
     License     : Apache License 2.0 - https://www.apache.org/licenses/LICENSE-2.0
     Version     : 1.0.0
     Date        : 2026-09-16
-    GitHub      : https://github.com/<your-github-username>/Engineer
+    GitHub      : https://github.com/Benson-Lam/Engineer
     LinkedIn    : https://www.linkedin.com/in/bensonlam/
     ===========================================================================
 
@@ -71,7 +71,7 @@ If a script is contributed by someone other than the repository owner, retain th
 
 ```powershell
     Contributed to the "Engineer" project by <Repository Owner Name>
-    Repository maintained by Benson Lam - https://github.com/<your-github-username>/Engineer
+    Repository maintained by Benson Lam - https://github.com/Benson-Lam/Engineer
 ```
 
 This keeps individual authorship accurate while maintaining clear project-level attribution.
