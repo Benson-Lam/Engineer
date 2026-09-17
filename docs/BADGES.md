@@ -11,7 +11,7 @@ Replace `Benson-Lam` with your actual GitHub username/org once the repository is
 [![GitHub issues](https://img.shields.io/github/issues/Benson-Lam/Engineer)](../../issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Benson-Lam/Engineer)](../../commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Maintained by Benson Lam](https://img.shields.io/badge/Maintained%20by-Benson%20Lam-informational)](https://www.linkedin.com/in/bensonlam/)
+[![Maintained by Benson Lam](https://img.shields.io/badge/Maintained%20by-Benson%20Lam-informational)](https://www.linkedin.com/in/bensonl/)
 ```
 
 ## Optional Additional Badges
