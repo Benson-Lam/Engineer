@@ -30,7 +30,7 @@ Every script in this repository **must** begin with this header block. It ensure
     Version     : 1.0.0
     Date        : 2026-09-16
     GitHub      : https://github.com/Benson-Lam/Engineer
-    LinkedIn    : https://www.linkedin.com/in/bensonlam/
+    LinkedIn    : https://www.linkedin.com/in/bensonl/
     ===========================================================================
 
     CHANGE LOG:
