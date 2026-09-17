@@ -27,7 +27,7 @@ Always pull the latest release from the [Releases](../../releases) page to ensur
 If you discover a security vulnerability, credential exposure risk, logic flaw with security implications, or unsafe default behaviour in any script or tool in this repository, please report it privately using one of the following methods:
 
 1. **GitHub Private Vulnerability Reporting** (preferred): Use the **"Report a vulnerability"** option under the repository's **Security** tab, if enabled.
-2. **Direct contact**: Reach out via [LinkedIn](https://www.linkedin.com/in/bensonlam/) with a clear subject line such as "Security Report — Engineer Repository."
+2. **Direct contact**: Reach out via [LinkedIn](https://www.linkedin.com/in/bensonl/) with a clear subject line such as "Security Report — Engineer Repository."
 
 Please include:
 
