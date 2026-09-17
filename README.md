@@ -185,7 +185,7 @@ See the full [`DISCLAIMER.md`](DISCLAIMER.md) for complete terms.
 **Benson Lam**
 Cloud Technical Lead @ [cubesys Pty Ltd](https://cubesys.com.au)
 
-- 🔗 LinkedIn: [linkedin.com/in/bensonlam](https://www.linkedin.com/in/bensonl/)
+- 🔗 LinkedIn: [linkedin.com/in/bensonl](https://www.linkedin.com/in/bensonl/)
 - 💻 GitHub: [@Benson-Lam](https://github.com/Benson-Lam)
 
 If this project has helped you, please consider ⭐ **starring the repository** — it helps others discover the project and supports continued development.
