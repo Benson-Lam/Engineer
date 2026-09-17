@@ -23,7 +23,7 @@ When editing the About section on the repository homepage:
 | Field | Value |
 |---|---|
 | **Description** | Use the short description above. |
-| **Website** | `https://www.linkedin.com/in/bensonlam/` (or a future project landing page) |
+| **Website** | `https://www.linkedin.com/in/bensonl/` (or a future project landing page) |
 | **Topics** | See [`GITHUB_TOPICS.md`](GITHUB_TOPICS.md) |
 | ☑️ **Releases** | Enabled |
 | ☑️ **Packages** | Leave disabled unless you publish a PowerShell Gallery module later |
