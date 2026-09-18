@@ -15,6 +15,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## index.html
 
+### [3.0.8] - 2026-09-17
+
+#### Added
+- **Filter groups**: alongside the existing "Add pattern" filter rule, you can now "Add group" to build multiple grouped filter rules with their own connector logic, for more precise include/exclude filtering than a single flat pattern list allowed.
+- **Layout curtain toggle**: a collapsible control above the main chart/tree layout, letting you show or hide the detailed view to focus on the summary stats.
+
+#### Changed
+- General UI/UX refinements to the filtering panel and overall layout.
+
 ### [3.0.6] - 2026-09-17
 
 #### Added
